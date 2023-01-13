@@ -1,0 +1,10 @@
+{
+    "english": {
+        "kiss": "{user.mention} kissed {author.mention}",
+        "hug": "{user.mention} gave {author.mention} a hug"
+    },
+    "spanish": {
+        "kiss": "{user.mention} le dio un beso a {author.mention}",
+        "hug": "{user.mention} le dio un abrazo a {author.mention}"
+    }
+}

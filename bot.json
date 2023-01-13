@@ -1,0 +1,11 @@
+{
+    "huromi": {
+        "token": "bot token"
+    },
+    "status": [
+        "im away",
+        "sleeping",
+        "summer",
+        "{prefix} for help"
+    ]
+}
